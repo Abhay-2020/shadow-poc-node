@@ -1,0 +1,16 @@
+{
+  "name": "shadow-poc",
+  "version": "1.0.0",
+  "description": "shadow-poc",
+  "main": "shadowMongo.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC"
+}
